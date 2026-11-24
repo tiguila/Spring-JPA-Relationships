@@ -1,0 +1,1 @@
+week 2 personal labs to learn and test JPA different relationship mapping using JPA such as one-to-many or many-to-many relationships.
